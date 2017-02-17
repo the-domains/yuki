@@ -1,0 +1,26 @@
+name: Yuki
+layout_spectrum: 0.30822907802576494
+typography_spectrum: 0.6691993776837599
+opengraph:
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#A7304F'
+    - '#F46D8D'
+    - '#F39EB5'
+    - '#081028'
+    - '#F0CEB7'
+  brandStrength: 0.35012022827161837
+  lightness: 0.20526407115886292
+  saturation: 0.9262774491488257
+  rhythmicContrast: 0.3052994751673439
+title: Yuki's Journal
+description: The world through the eyes of Yukino
+author:
+  name: Yahanan "Yuki" Xie
+  url: 'https://jcsesecuneta.com/profile'
+content_rating:
+  adult: false
+content: []
+github: true
