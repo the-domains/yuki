@@ -1,6 +1,8 @@
 name: Yuki
 layout_spectrum: 0.30822907802576494
 typography_spectrum: 0.6691993776837599
+analytics:
+  google: UA-240499-46
 opengraph:
   type: ''
   appId: ''
@@ -22,8 +24,9 @@ author:
   url: 'https://jcsesecuneta.com/profile'
 content_rating:
   adult: false
+navigation:
+  - name: Author Profile
+    url: 'https://jcsesecuneta.com/profile'
+    type: external
 content: []
-analytics:
-  google: UA-240499-46
 github: true
-url: 'https://yahananxie.com'
