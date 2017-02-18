@@ -25,8 +25,29 @@ author:
 content_rating:
   adult: false
 navigation:
+  - name: Author Profile
+    url: 'https://jcsesecuneta.com/profile'
+    type: external
   - name: gameshogun™
     url: 'https://gameshogun.xyz'
+    type: external
+  - name: techmagus™
+    url: 'https://techmagus.ninja'
+    type: external
+  - name: Snoworld™
+    url: 'https://snoworld.one'
+    type: external
+  - name: YourOnly.One™
+    url: 'https://youronly.one'
+    type: external
+  - name: Adorable & Beautiful ™
+    url: 'http://beauty.moe'
+    type: external
+  - name: One Way Faith™
+    url: 'https://1way.faith'
+    type: external
+  - name: Clean Real Food™
+    url: 'htps://realfood.space'
     type: external
 content: []
 github: true
